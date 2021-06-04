@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto",sans-serif;
+}
+.container{
+    width: 0px;
+    margin: 0 auto ;
+}
+nav .menu ul li{
+    float: left;
+    line-height: 35px;
+    padding: 0 15px;
+}
+nav .menu ul li a{
+    color: #fff;
+    font-size: 14px;
+    text-decoration: none;
+}
+nav .search{
+   line-height: 35px;
+   float: right; 
+   margin-right: 25px;
+}
+article h3{
+    text-align: center;
+    padding: 15px 0;
+    color: #111;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+article .new_list .new_item{
+    width: 28%;
+    padding: 1%;
+    float: left;
+    border: 2px solid #ccc;
+    margin-right: 4%;
+}
+article .new_list .new_item h4{
+    font-size: 16px;
+    color: #cc66ff;
+}
+article .new_list .new_item img{
+    margin: 10px auto;
+}
+article .new_list .new_item .content{
+    font-size: 13px;
+}
+footer{
+    height: 40px;
+    background: #cc66ff;
+    line-height: 40px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+#fix{
+    margin-right: 0;
+}
+
+    
+   
+
+
